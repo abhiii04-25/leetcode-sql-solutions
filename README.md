@@ -12,7 +12,8 @@ Easy/
 ├── 584-find-customer-referee.sql
 ├── 595-big-countries.sql
 └── Joins/
-    └── 1378-replace-employee-id-with-unique-identifier.sql
+    ├── 1068-product-sales-analysis-i.sql
+    ├── 1378-replace-employee-id-with-unique-identifier.sql
 ```
 
 ## Topics Covered
@@ -30,12 +31,13 @@ Easy/
 
 | Difficulty | Solved |
 |-----------|--------|
-| Easy      | 6      |
+| Easy      | 7      |
 | Medium    | 0      |
 | Hard      | 0      |
 
 ## Easy — JOIN Problems
 
+- [1068. Product Sales Analysis I](Easy/Joins/1068-product-sales-analysis-i.sql) — INNER JOIN
 - [1378. Replace Employee ID With The Unique Identifier](Easy/Joins/1378-replace-employee-id-with-unique-identifier.sql) — LEFT JOIN
 
 ## Goal
